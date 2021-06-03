@@ -220,4 +220,96 @@ Config.DoorList = {
 		distance = 12,
 		size = 2
 	},
+
+	-- Ajaxon Burton LSC
+	{
+		objName = 'ajaxon_burton_lsc_side_door2',
+		objCoords  = vector3(-360.21, -154.93, 37.72),
+		textCoords = vector3(-360.21, -154.93, 37.72),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
+	{
+		objName = 'ajaxon_burton_lsc_storage_door',
+		objCoords  = vector3(-341.77, -166.53, 38.01),
+		textCoords = vector3(-341.77, -166.53, 38.01),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
+	{
+		objName = 'ajaxon_burton_lsc_side_door2',
+		objCoords  = vector3(-364.97, -102.12, 38.01),
+		textCoords = vector3(-364.97, -102.12, 38.01),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
+	{
+		objName = 'ajaxon_burton_lsc_side_door2',
+		objCoords  = vector3(-371.95, -99.58, 38.01),
+		textCoords = vector3(-371.95, -99.58, 38.01),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
+	{
+		objName = 'ajaxon_burton_lsc_front_door2',
+		objCoords  = vector3(-349.79, -117.29, 38.01),
+		textCoords = vector3(-349.79, -117.29, 38.01),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
+	{
+		objName = 'ajaxon_burton_lsc_front_door2',
+		objCoords  = vector3(-356.13, -134.79, 38.01),
+		textCoords = vector3(-356.13, -134.79, 38.01),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
+	{
+		objName = 'ajaxon_burton_lsc_office_door',
+		objCoords  = vector3(-334.87, -156.70, 43.59),
+		textCoords = vector3(-334.87, -156.70, 43.59),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
+	{
+		objName = 'ajaxon_burton_lsc_office_door',
+		objCoords  = vector3(-334.61, -154.36, 43.59),
+		textCoords = vector3(-334.61, -154.36, 43.59),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
+	{
+		objName = 'ajaxon_burton_lsc_office_door',
+		objCoords  = vector3(-334.98, -162.28, 43.59),
+		textCoords = vector3(-334.98, -162.28, 43.59),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
+	{
+		objName = 'ajaxon_burton_lsc_office_door',
+		objCoords  = vector3(-334.71, -165.14, 43.59),
+		textCoords = vector3(-334.71, -165.14, 43.59),
+		authorizedJobs = { 'mechanic' },
+		locked = true,
+		distance = 12,
+		size = 2
+	},
 }
